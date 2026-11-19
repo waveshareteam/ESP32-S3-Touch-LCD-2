@@ -1,4 +1,4 @@
-#include <arduino.h>
+#include <Arduino.h>
 #include "app_system.h"
 
 #include "driver/temperature_sensor.h"
