@@ -8,7 +8,7 @@
   </p>
   <p>
     <a href="https://www.waveshare.com/esp32-s3-touch-lcd-2.htm">🛒 产品</a> &middot;
-    <a href="https://github.com/waveshareteam/ESP32-S3-Touch-LCD-2/releases/latest">📦 固件</a> &middot;
+    <a href="firmware/">📦 固件</a> &middot;
     <a href="examples/esp-idf/">🧩 ESP-IDF</a> &middot;
     <a href="examples/arduino/examples/">🔧 Arduino</a> &middot;
     <a href="https://docs.waveshare.net/ESP32-S3-Touch-LCD-2/">📖 文档</a>
@@ -32,6 +32,8 @@
 | 摄像头接口 | OV2640 或 OV5640 |
 
 ## 📦 快速开始
+
+恢复出厂演示请前往 [`firmware/`](firmware/)，下载出厂固件并按目录内的说明烧录。
 
 体验示例最快的方法是使用[最新版本](https://github.com/waveshareteam/ESP32-S3-Touch-LCD-2/releases/latest)中打包好的可烧录固件。
 

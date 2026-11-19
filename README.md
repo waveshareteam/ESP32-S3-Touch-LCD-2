@@ -8,7 +8,7 @@
   </p>
   <p>
     <a href="https://www.waveshare.com/esp32-s3-touch-lcd-2.htm">🛒 Product</a> &middot;
-    <a href="https://github.com/waveshareteam/ESP32-S3-Touch-LCD-2/releases/latest">📦 Firmware</a> &middot;
+    <a href="firmware/">📦 Firmware</a> &middot;
     <a href="examples/esp-idf/">🧩 ESP-IDF</a> &middot;
     <a href="examples/arduino/examples/">🔧 Arduino</a> &middot;
     <a href="https://docs.waveshare.com/ESP32-S3-Touch-LCD-2/">📖 Documentation</a>
@@ -32,6 +32,8 @@ The board includes a capacitive touchscreen, a six-axis IMU, a microSD slot, and
 | Camera connector | OV2640 or OV5640 |
 
 ## 📦 Quick Start
+
+To restore the factory demo, download the factory image from [`firmware/`](firmware/) and follow the flashing instructions there.
 
 The fastest way to try an example is a ready-to-flash package from the
 [latest release](https://github.com/waveshareteam/ESP32-S3-Touch-LCD-2/releases/latest).
