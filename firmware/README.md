@@ -6,6 +6,8 @@
 | --- | --- |
 | [`ESP32-S3-Touch-LCD-2_FactoryOnly_20261119.bin`](ESP32-S3-Touch-LCD-2_FactoryOnly_20261119.bin) | Restores the ESP32-S3-Touch-LCD-2 factory demo. |
 
+The factory firmware above applies to both ESP32-S3-Touch-LCD-2 and ESP32-S3-Touch-LCD-2-C, which includes an OV5640 camera. In the Firmware Center, select ESP32-S3-Touch-LCD-2 for either version.
+
 Connect the board with a USB data cable. Open a terminal in this directory, use esptool 5 or later, and replace `PORT` with the board's serial port.
 
 Erasing the entire flash clears the firmware, settings, and user data. Back up any data you need before erasing.
